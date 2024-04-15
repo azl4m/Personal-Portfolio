@@ -1,6 +1,6 @@
 
 $(document).ready(function() {
-  console.log("hi"),
+  console.log("hi");
   $("#registration").validate({
     rules:{
       name:{
